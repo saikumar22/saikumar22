@@ -15,6 +15,7 @@
 </a>
 </br>
 
+** **
 - 👨🏽‍💻 I’m currently working on a ProGrad's Web Developer!
 - 🎓 Electronics and Communication Engineering, Balaji Institute of Technology & Sciences 2020
 - 🌱 I’m currently learning how to use machines for my purpose 😏;
