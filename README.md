@@ -18,12 +18,12 @@
 ** **
 - 👨🏽‍💻 I’m currently working on a ProGrad's Web Developer!
 - 🎓 Electronics and Communication Engineering, Balaji Institute of Technology & Sciences 2020
-- 🌱 I’m currently learning how to use machines for my purpose 😏;
-- 💼 I'm a job seeker;
+- 🌱 I’m currently learning....
 - 🤓 I was in search of learning new things;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Reach me: saigoud2212@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1K2_K_TvMf9DP8oGUjJmFp-YpmdCZAKY1/view?usp=drivesdk)
+- 👯 I’m looking to collaborate on more open source projects.
+- 💬 Ask me about [here](https://github.com/saikumar22/saikumar22/issues) related to C, Java, HTML, CSS, Javascript, Mysql, JSP;
+- 📫 How to Reach me:.. saigoud2212@gmail.com
+- 📝 [Saikumar's Resume](https://drive.google.com/file/d/1K2_K_TvMf9DP8oGUjJmFp-YpmdCZAKY1/view?usp=drivesdk)
 </br>
 
 **Languages and Tools:**
@@ -38,4 +38,5 @@
 <code><img height="40" width = "40" src="https://img.icons8.com/windows/2x/nodejs.png"></code>
 
 
-
+### 📊 GitHub Stats:
+![saikumar22's github stats](https://github-readme-stats.vercel.app/api?username=saikumar22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
