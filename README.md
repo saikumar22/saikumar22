@@ -16,7 +16,7 @@
 </br>
 
 ** **
-- 👨🏽‍💻 I’m currently working on a ProGrad's Web Developer!
+- 👨🏽‍💻 I’m currently working on a Wealus Technology Solutions Software Developer!
 - 🎓 Electronics and Communication Engineering, Balaji Institute of Technology & Sciences 2020
 - 🌱 I’m currently learning....
 - 🤓 I was in search of learning new things;
