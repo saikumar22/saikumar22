@@ -23,7 +23,7 @@
 
 <code> <img height="40" width = "40" src = "https://img.icons8.com/?size=100&id=79904&format=png&color=000000"></code> 
 <code><img height="40" width = "40" src="https://img.icons8.com/windows/2x/nodejs.png"></code>
-<code> <img height="40" width = "40" src = "https://img.icons8.com/?size=100&id=TwdB62yFXesu&format=png&color=000000"></code> 
+<code> <img height="40" width = "40" src = "https://img.icons8.com/?size=100&id=-AszLOZlCRQ0&format=png&color=000000"></code> 
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/circled-c.png"></code> 
 <code> <img height="40" width = "40" src = "https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/html-filetype.png"></code>
