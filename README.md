@@ -12,7 +12,6 @@
 ** **
 - 👨🏽‍💻 I’m currently working on a Sagarsoft (India) Limited Software Engineer!
 - 🎓 Electronics and Communication Engineering, Balaji Institute of Technology & Sciences 2020
-- 🌱 I’m currently learning....
 - 🤓 I was in search of learning new things;
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about [here](https://github.com/saikumar22/saikumar22/issues) related to PHP, Node JS, Flutter, C, Java, HTML, CSS, Javascript, Mysql, Power BI;
@@ -21,6 +20,9 @@
 
 **Languages and Tools:**
 </br>
+
+<code> <img height="40" width = "40" src = "https://img.icons8.com/?size=100&id=79904&format=png&color=000000"></code> 
+
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/circled-c.png"></code> 
 <code> <img height="40" width = "40" src = "https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/html-filetype.png"></code>
@@ -30,6 +32,3 @@
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/jsp.png"></code>
 <code><img height="40" width = "40" src="https://img.icons8.com/windows/2x/nodejs.png"></code>
 
-
-### 📊 GitHub Stats:
-![saikumar22's github stats](https://github-readme-stats.vercel.app/api?username=saikumar22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
